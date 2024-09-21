@@ -1,5 +1,6 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "fruithub",
     "slug": "fruithub",
     "version": "1.0.0",
@@ -8,6 +9,15 @@
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
+=======
+    "name": "fruithubb",
+    "slug": "fruithubb",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/logo.svg",
+    "userInterfaceStyle": "light",
+    "splash": {
+>>>>>>> 83044fb40b8725dd49e09315ebb76a474f98c9eb
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -16,7 +26,10 @@
     },
     "android": {
       "adaptiveIcon": {
+<<<<<<< HEAD
         "foregroundImage": "./assets/adaptive-icon.png",
+=======
+>>>>>>> 83044fb40b8725dd49e09315ebb76a474f98c9eb
         "backgroundColor": "#ffffff"
       }
     },
