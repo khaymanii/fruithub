@@ -1,11 +1,11 @@
 import React from "react";
 import tw from "twrnc";
-import { View, Text } from "react-native";
-import Splash from "./screens/Splash";
+import { View } from "react-native";
+import Welcome from "./screens/Welcome";
 export default function App() {
   return (
     <View style={tw`flex-1`}>
-      <Splash />{" "}
+      <Welcome />{" "}
     </View>
   );
 }
