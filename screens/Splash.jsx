@@ -1,4 +1,4 @@
-import { View, Image, Text } from "react-native";
+import { View, Image } from "react-native";
 import React from "react";
 import tw from "twrnc";
 
