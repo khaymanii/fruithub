@@ -1,10 +1,10 @@
 import tw from "twrnc";
 import { View } from "react-native";
-import OrderComplete from "./screens/OrderComplete";
+import Deliverystatus from "./screens/Deliverystatus";
 export default function App() {
   return (
     <View style={tw`flex-1`}>
-      <OrderComplete />{" "}
+      <Deliverystatus />{" "}
     </View>
   );
 }
